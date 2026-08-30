@@ -1,5 +1,34 @@
 # 💫 About Me:
-I am a 20-year-old Computer Science and Machine Learning (CSM) student at the MLR Institute of Technology, anticipating graduation in May 2028. I specialize in building and deploying AI systems and full-stack web applications, with a heavy emphasis on Agentic AI, RAG frameworks, and scalable microservice architectures. I am currently actively seeking AI/ML Engineer Intern roles.  
+I am a 20-year-old Computer Science and Machine Learning (CSM) student at the MLR Institute of Technology, anticipating graduation in May 2028. I specialize in building and deploying AI systems and full-stack web applications, with a heavy emphasis on Agentic AI, RAG frameworks, and scalable microservice architectures. I am currently actively seeking AI/ML Engineer Intern roles.
+
+
+## 💻 Languages and Tools
+
+### AI/ML
+
+[![AI/ML](https://skillicons.dev/icons?i=py,pytorch,pycharm,tensorflow,sklearn)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=html,css,scss,bootstrap,js,ts,react,tailwind,next)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,postman)](https://skillicons.dev)
+
+### Database
+
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)](https://skillicons.dev)
+
+### Design
+
+[![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,windows,ubuntu)](https://skillicons.dev)
+
+
 
 
 ## 🌐 Socials:
