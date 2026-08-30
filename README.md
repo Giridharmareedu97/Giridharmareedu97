@@ -20,9 +20,6 @@ I am a 20-year-old Computer Science and Machine Learning (CSM) student at the ML
 
 [![Database](https://skillicons.dev/icons?i=mongodb,mysql,postgres,prisma)](https://skillicons.dev)
 
-### Design
-
-[![Design](https://skillicons.dev/icons?i=figma,ps)](https://skillicons.dev)
 
 ### Tools
 
